@@ -1,0 +1,3 @@
+dnspython==1.10.0
+-e git+git://github.com/openpolis/validate_email.git#egg=validate_email
+pyzmq==13.0.2
